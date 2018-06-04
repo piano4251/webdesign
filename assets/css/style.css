@@ -295,12 +295,12 @@ nav ul li {
     background: url(../images/homebg.jpg) no-repeat top center #141315;
     background-size: cover;
     position: relative;
-    padding-top: 80px;
+    padding-top: 0px;
    background-attachment: fixed;
 }
 
 .main_home {
-    padding: 170px 20px 170px 20px;
+    padding: 150px 20px 120px 20px;
     position: relative;
 }
 .main_home h1{
@@ -394,7 +394,8 @@ nav ul li {
     width:100%;
 }
 .main_service_content .single_service{
-    margin-top:25%;
+    margin-top:0%;
+    margin-right:25%;
 }
 .main_service_content .single_service h2{
     font-weight: 700;
@@ -539,8 +540,8 @@ nav ul li {
     color:#fff;
 }
 .testimonial_content .single_test h3{
-    width:80%;
-    margin:30px auto;
+    width:100%;
+    margin:0px auto;
     color:#fff;
 }
 .testimonial_content .single_test h3:before{
