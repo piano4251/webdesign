@@ -272,7 +272,7 @@ nav ul li {
 ================================================================*/
 .head_title {
     width: 80%;
-    margin: 0px auto;
+    margin-left: 300px;
 }
 .head_title h2{
     line-height: 4rem;
